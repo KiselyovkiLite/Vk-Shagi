@@ -1,0 +1,2 @@
+py Shagi.py
+pause
